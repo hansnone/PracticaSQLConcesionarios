@@ -68,7 +68,7 @@ values
     ('8919-HHH', 'Nissan', 'Qashqai', 'Gris', 2.0, 2011, 200000, 8500, 4),
     ('7623-GRS', 'Volkswagen', 'Tiguan', 'Gris', 2.0, 2010, 130000, 12000, 1),
     ('4901-KPS', 'Volkswagen', 'Polo', 'Azul', 1.0, 2018, 10000, 11500, 2),
-    ('6841-LBN', 'Volkswagen', 'Golf', 'Rojo', 1.6, 2019, 15000, 22500, 1);
+    ('6841-LBN', 'Volkswagen', 'Golf', 'Rojo', 1.6, 2019, 15000, 22500, 5);
 ```
 
 ## Realiza las siguientes consultas:
